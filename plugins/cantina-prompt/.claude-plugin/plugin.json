@@ -1,0 +1,9 @@
+{
+  "name": "cantina-prompt",
+  "version": "1.0.0",
+  "description": "Turn scene ideas and screenplays into Cantina video prompts that stay inside Cantina's limits, recreate scenes that came out wrong, and write social media titles and descriptions.",
+  "author": {
+    "name": "xprojectx2501x"
+  },
+  "keywords": ["cantina", "ai video", "prompt", "screenplay", "video generation"]
+}

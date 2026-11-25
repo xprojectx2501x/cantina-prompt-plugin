@@ -1,0 +1,17 @@
+{
+  "name": "cantina-prompt",
+  "owner": {
+    "name": "xprojectx2501x"
+  },
+  "metadata": {
+    "description": "Claude skill for writing Cantina AI video scene prompts."
+  },
+  "plugins": [
+    {
+      "name": "cantina-prompt",
+      "source": "./plugins/cantina-prompt",
+      "description": "Turn scene ideas and screenplays into Cantina video prompts that stay inside Cantina's limits, recreate scenes that came out wrong, and write social media titles and descriptions.",
+      "version": "1.0.0"
+    }
+  ]
+}
